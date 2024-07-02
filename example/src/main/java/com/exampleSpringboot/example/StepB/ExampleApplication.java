@@ -1,4 +1,4 @@
-package com.exampleSpringboot.example;
+package com.exampleSpringboot.example.StepB;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
